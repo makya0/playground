@@ -1,3 +1,5 @@
 var m = make(map[string]int)
 
+
 <item>.methodfunc()
+method can have the same func name but different receivers(type)
