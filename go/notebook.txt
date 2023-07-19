@@ -3,3 +3,4 @@ var m = make(map[string]int)
 
 <item>.methodfunc()
 method can have the same func name but different receivers(type)
+(item means passed values for a type) items and receivers are bond friends!
